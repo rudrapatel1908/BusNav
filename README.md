@@ -1,4 +1,5 @@
 # BusNav
+BusNav is a smart college bus navigation system that provides real-time bus tracking using map integration. It helps students save time, keeps parents informed through live notifications, and enables colleges to monitor transport safety through driver feedback and complaint features.
 
 📌 Project Description
 BusNav is a smart college bus navigation system designed to provide real-time bus tracking using map integration. It helps students save time by showing live bus location and estimated arrival times, keeps parents informed through notifications, and enables colleges to monitor transport safety through driver feedback and complaint mechanisms.
@@ -29,11 +30,11 @@ Admin Dashboard
 ⚙️ Setup Instructions
 Follow the steps below to run the project locally:
 1.Clone the repository
-   -git clone https://github.com/rudrapatel1908/busnav.git
+   git clone https://github.com/rudrapatel1908/busnav.git
 2.Navigate to the project directory
-   -cd busnav
+   cd busnav
 3.Install dependencies
-   -npm install
+   npm install
 4.Configure environment variables
   -Add your Google Maps API key
   -Configure Firebase credentials
